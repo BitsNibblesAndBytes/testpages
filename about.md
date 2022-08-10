@@ -13,6 +13,7 @@ function sayHello(){
     console.log('hello');
     //comment the code
 }
+```
 
 and then some bullet points
 
